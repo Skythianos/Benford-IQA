@@ -8,8 +8,8 @@ path = 'C:\Users\Public\QualityAssessment\KADID-10k_SIVP-FRIQA\images'; % KADID-
 numberOfImages = size(dmos, 1);
 Scores = zeros(numberOfImages, 1);
 
-Constants.extended  = true;
-Constants.perceptual= true;
+Constants.extended  = false;
+Constants.perceptual= false;
 
 if(Constants.extended)
     if(Constants.perceptual)
