@@ -4,3 +4,15 @@
 
 ## Cite
 If you use this code, please cite the following paper:
+```
+@article{varga2021analysis,
+  title={Analysis of Benford’s Law for No-Reference Quality Assessment of Natural, Screen-Content, and Synthetic Images},
+  author={Varga, Domonkos},
+  journal={Electronics},
+  volume={10},
+  number={19},
+  pages={2378},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
